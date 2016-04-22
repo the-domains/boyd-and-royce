@@ -1,0 +1,28 @@
+name: 'boyd & royce'
+favicon: null
+layout_spectrum: 0.38975736778229475
+typography_spectrum: 0.48597111110575497
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.0005444069392979145
+  lightness: 0.7627667477354407
+  saturation: 0.4970962288789451
+  rhythmicContrast: 0.6626983236055821
+purpose: []
